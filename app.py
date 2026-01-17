@@ -97,7 +97,7 @@ st.title("🎁 SADDAMIN ALTINLARI ÇEKİLİŞ 🎁")
 st.write("Kim kime hediye alacak çekmek için butona basın!")
 
 # İsim Listesi
-isimler = ["Nurefşan", "Zehra", "Nursima", "Rana", "Hale", "Melike", "Fatma"]
+isimler = ["Nurefşan", "Zehra", "Melike", "Rana", "Hale", "Fatma", "Nursima"]
 
 # Çekiliş Butonu
 if st.button("Çekiliş Yap!"):
@@ -118,4 +118,4 @@ if st.button("Çekiliş Yap!"):
             st.error("Çekiliş yapılırken bir hata oluştu. Lütfen tekrar deneyin.")
 
 st.write("---")
-st.info("Bu uygulama Melike, Nurefşan, Nursima, Fatma, Hale, Rana ve Zehra için özel olarak hazırlandı!")
+st.info("Bu uygulama Fatma, Nurefşan, Nursima, Hale, Rana, Zehra ve Melike için ÖZEL olarak hazırlandı😁!")
