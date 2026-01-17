@@ -97,7 +97,7 @@ st.title("🎁 SADDAMIN ALTINLARI ÇEKİLİŞ 🎁")
 st.write("Kim kime hediye alacak çekmek için butona basın!")
 
 # İsim Listesi
-isimler = ["Nurefşan", "Fatma", "Nursima", "Hale", "Melike", "Rana", "Zehra"]
+isimler = ["Nurefşan", "Fatma", "Nursima", "Melike", "Hale", "Rana", "Zehra"]
 
 # Çekiliş Butonu
 if st.button("Çekiliş Yap!"):
