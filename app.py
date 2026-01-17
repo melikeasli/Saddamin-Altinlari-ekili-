@@ -1,6 +1,8 @@
 import streamlit as st
 import random
 
+random.seed(42)
+
 def cekilis_yap(isim_listesi):
     cekilenler = isim_listesi.copy()
     
