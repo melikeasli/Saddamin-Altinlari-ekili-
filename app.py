@@ -98,7 +98,7 @@ st.write("Kim kime hediye alacak çekmek için butona basın!")
 
 # İsim Listesi
 isimler = ["Melike", "Nurefşan", "Nursima", "Fatma", "Hale", "Rana", "Zehra"]
-🙏
+
 # Çekiliş Butonu
 if st.button("Çekiliş Yap!"):
     with st.spinner("Çekiliyor... Lütfen bekleyin 🎉"):
@@ -113,7 +113,7 @@ if st.button("Çekiliş Yap!"):
                     <span>{sonuc}</span>
                 </div>
                 """, unsafe_allow_html=True)
-            st.success(" Ftm'miz inşallah hemen iyileşirsin 🙏 Hepinizi aynı anda seviyorum. Güzel şeyler alın 😊")
+            st.success(" Ftm'miz inşallah hemen iyileşirsin 🙏 Hepinizi aynı anda çok seviyorum 💕 Güzel şeyler alın 😊")
         else:
             st.error("Çekiliş yapılırken bir hata oluştu. Lütfen tekrar deneyin.")
 
