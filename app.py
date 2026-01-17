@@ -113,7 +113,7 @@ if st.button("Çekiliş Yap!"):
                     <span>{sonuc}</span>
                 </div>
                 """, unsafe_allow_html=True)
-            st.success(" Ftm'miz inşallah hemen iyileşirsin 🙏 Hepinizi aynı anda çok seviyorum 💕 Güzel şeyler alın 😊")
+            st.success(" Ftm'miz inşallah hemen iyileşirsin ve o projenin anasını ağlatırsın amin🙏 Hepinizi aynı anda çok seviyorum 💕 Güzel şeyler alın 😊")
         else:
             st.error("Çekiliş yapılırken bir hata oluştu. Lütfen tekrar deneyin.")
 
